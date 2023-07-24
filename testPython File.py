@@ -1,4 +1,8 @@
 import time
 
 def gettime():
-       pass
+	pass
+
+
+def test2():
+	pass
